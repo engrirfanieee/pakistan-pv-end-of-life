@@ -103,4 +103,4 @@ The code is released under the MIT License (see `LICENSE`). The input data belon
 
 ## Contact
 
-Muhammad Irfan Habib, Nataional Skills University Islamabad, irfan.habib@nsu.edu.pk  
+Muhammad Irfan Habib, National Skills University Islamabad, irfan.habib@nsu.edu.pk  
