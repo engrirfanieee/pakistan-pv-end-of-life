@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "The hidden decline: end-of-life and performance loss in Pakistan's consumer-led solar fleet (code and data)"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Institution]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-11-24"
+license: MIT
+repository-code: "https://github.com/[username]/pakistan-pv-end-of-life"
+keywords:
+  - photovoltaics
+  - end-of-life
+  - PV waste
+  - degradation
+  - Weibull
+  - Pakistan
+  - circular economy
