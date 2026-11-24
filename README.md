@@ -2,7 +2,7 @@
 
 Code and data for the manuscript:
 
-> [Author 1], [Author 2], and [Author 3]. *The hidden decline: end-of-life and performance loss in Pakistan's consumer-led solar fleet.* Submitted to *Joule* (2026).
+> Muhammad Irfan Habib *The hidden decline: end-of-life and performance loss in Pakistan's consumer-led solar fleet.* Submitted to *Joule* (2026).
 
 This repository contains a cohort-based model of Pakistan's distributed solar photovoltaic (PV) fleet. The fleet totals an estimated 51 GW installed by March 2026. The model estimates:
 
@@ -103,4 +103,4 @@ The code is released under the MIT License (see `LICENSE`). The input data belon
 
 ## Contact
 
-[Name], [Institution], [email]
+Muhammad Irfan Habib, Nataional Skills University Islamabad, irfan.habib@nsu.edu.pk  
